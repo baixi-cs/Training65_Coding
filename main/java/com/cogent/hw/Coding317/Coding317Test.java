@@ -65,7 +65,9 @@ public class Coding317Test {
 		String toggleStr = ct.toggleCase(s);		
 		System.out.println("q7 Toggle the case of  after: " + toggleStr);
 		System.out.println("\n");
-		//	8. Java program to remove duplicate elements from a singly linked list
+		
+//	8. Java program to remove duplicate elements from a singly linked list
+		//see LinkedList class
 		
 
 		
